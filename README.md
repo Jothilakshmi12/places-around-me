@@ -12,7 +12,8 @@ add content to any 5 places around your map.
 complete the index work.
 
 ## Code:
-```html
+```
+html
 <!DOCTYPE html>
 <html>
     <head>
@@ -49,4 +50,4 @@ complete the index work.
 
 
 ## Result:
-The program was excutde successfully.
+The program was executed successfully.
